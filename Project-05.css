@@ -1,0 +1,59 @@
+/*Helena Grace
+Project-05
+May 14th 2018*/
+
+/*The universal selector*/
+*{
+
+}
+/*Put body attributes here */
+
+body{
+     font-family:Times New Roman;
+     font-size: 16px;
+     color:purple;
+     background-color:rgb(37, 209, 219)
+     
+     }
+     
+h1{
+     font-family:Times New Roman;
+     font-size: 200%;
+     color:blue;
+     text-align: center;
+     text-transform: uppercase;
+     border-bottom:  3px blue;
+     padding-bottom: 3px solid blue;
+     
+     }
+     
+h2{
+    font-family: Times New Roman;
+    font-size: 1.3em;
+    color: green;
+}
+        
+.topimg{
+    float:left;
+    border:3px dotted #f44162;
+}
+           
+.imgrow{
+    border:3px dotted orange;
+    width: 200px;
+    height: 200px;
+}
+
+.bottomimg{
+    border:3px dotted #f441dc;
+}
+
+
+footer{ 
+    border-top: 3px solid blue;
+    padding-bottom: 3px;
+          }
+header{ 
+    border-bottom: 3px solid blue;
+    padding-bottom: 3px;
+          }
